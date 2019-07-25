@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clicky-yoga-game/static/css/main.2cce8147.chunk.css",
+    "main.js": "/clicky-yoga-game/static/js/main.bebc64d6.chunk.js",
+    "main.js.map": "/clicky-yoga-game/static/js/main.bebc64d6.chunk.js.map",
+    "runtime~main.js": "/clicky-yoga-game/static/js/runtime~main.8c741244.js",
+    "runtime~main.js.map": "/clicky-yoga-game/static/js/runtime~main.8c741244.js.map",
+    "static/js/2.b41502e9.chunk.js": "/clicky-yoga-game/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/clicky-yoga-game/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/clicky-yoga-game/index.html",
+    "precache-manifest.e780a4ab8c788c3c21b3628da898fdfb.js": "/clicky-yoga-game/precache-manifest.e780a4ab8c788c3c21b3628da898fdfb.js",
+    "service-worker.js": "/clicky-yoga-game/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/clicky-yoga-game/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/clicky-yoga-game/static/media/logo.5d5d9eef.svg"
+  }
+}
